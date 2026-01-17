@@ -1,7 +1,7 @@
 Hi 👋 My name is Sneha Agrawal
 ==============================
 
-Data Scientist|Data Analyst|Data Engineer
+Data Scientist | Data Analyst | Data Engineer
 -----------------------------------------
 
 Data Analysis experienced in software development, while specializing in data modeling, dashboard creation, reporting automation, database design, and analytical problem-solving. Proven ability to translate business needs into data-driven solutions that improve efficiency, accuracy, and decision-making. Experience collaborating with cross-functional teams, managing technical projects end-to-end, and delivering insights that support strategic business outcomes.
