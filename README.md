@@ -65,7 +65,7 @@ Through roles that combined teaching, analytics, and technical problem-solving, 
 ---
 
 ## 🤝 Let’s Connect
-- 💼 LinkedIn: ([add link](https://www.linkedin.com/in/sneha-agrawal-865b37208/))
+- 💼 LinkedIn: (https://www.linkedin.com/in/sneha-agrawal-865b37208/)
 - 📧 Email: (snehaagrawal87@gmail.coml)
 
 ⭐ Feel free to explore my repositories or connect with me!
