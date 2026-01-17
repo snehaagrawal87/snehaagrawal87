@@ -19,12 +19,6 @@ Data Analysis experienced in software development, while specializing in data mo
 
 [Generative-AI-Chatbot:](https://github.com/snehaagrawal87/coding-chatbot) - Multi-model conversational chatbot | LLaMA, GPT, Groq, Streamlit, Docker 
 
-
-
-
-* 🌍  I'm based in United States
-* ✉️  You can contact me at [snehaagrawal87@gmail.com](mailto:snehaagrawal87@gmail.com)
-* 👥  I'm looking to collaborate on Machine Learning, Deep learning
   
   
 ### Socials
