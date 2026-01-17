@@ -11,11 +11,11 @@ Data Analysis experienced in software development, while specializing in data mo
 </p>
 
 ### My Projects
-Diabetes Adverse Risk Prediction - GCP-deployed predictive system | Cloud ML, Healthcare (https://github.com/snehaagrawal87/cloud-computing-project)
+[Diabetes Adverse Risk Prediction:](https://github.com/snehaagrawal87/cloud-computing-project) - GCP-deployed predictive system | Cloud ML, Healthcare 
 
-House price estimator with Streamlit UI-Logistic regression, Feature Engineering (https://github.com/snehaagrawal87/simple_streamlit)
+[House price estimator with Streamlit UI:](https://github.com/snehaagrawal87/simple_streamlit)-Logistic regression, Feature Engineering 
 
-Generative-AI-Chatbot - Multi-model conversational chatbot | LLaMA, GPT, Groq, Streamlit, Docker (https://github.com/snehaagrawal87/coding-chatbot)
+[Generative-AI-Chatbot:](https://github.com/snehaagrawal87/coding-chatbot) - Multi-model conversational chatbot | LLaMA, GPT, Groq, Streamlit, Docker 
 
 
 
