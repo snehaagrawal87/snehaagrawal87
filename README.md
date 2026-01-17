@@ -15,11 +15,13 @@ My journey into data science is driven by curiosity and problem-solving. With an
 
 Through roles that combined teaching, analytics, and technical problem-solving, I worked closely with performance data to identify patterns, measure impact, and deliver actionable insights. Pursuing a Master’s in Data Science further strengthened my skills in data analysis, visualization, and statistical thinking. Today, I am motivated by turning data into clear, practical insights with real-world impact.
 
+
+🛠️ Technical Skills
+
 ---
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="rlang" title="rlang" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
 </p>
-## 🛠️ Technical Skills
 
 **Programming & Tools**
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
@@ -42,9 +44,6 @@ Through roles that combined teaching, analytics, and technical problem-solving, 
 ---
 
 ## 📊 Projects
-- Performance analysis and trend identification  
-- Dashboard creation for monitoring key metrics  
-- Data cleaning, feature engineering, and exploratory analysis
 
 [Diabetes Adverse Risk Prediction:](https://github.com/snehaagrawal87/cloud-computing-project) - GCP-deployed predictive system | Cloud ML, Healthcare 
 
