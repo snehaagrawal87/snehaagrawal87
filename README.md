@@ -1,5 +1,5 @@
   
-><img width="1536" height="1024" alt="ChatGPT Image Jan 16, 2026, 08_22_08 PM" src="https://github.com/user-attachments/assets/4f24af6a-fcb2-4ca9-9501-3347e8072084" />
+><img width="1536" height="357" alt="ChatGPT Image Jan 16, 2026, 08_22_08 PM" src="https://github.com/user-attachments/assets/4f24af6a-fcb2-4ca9-9501-3347e8072084" />
 
 
 # 👋 Hi, I’m Sneha
