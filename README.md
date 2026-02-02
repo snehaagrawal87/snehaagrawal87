@@ -1,5 +1,6 @@
   
-><img width="1536" height="357" alt="ChatGPT Image Jan 16, 2026, 08_22_08 PM" src="https://github.com/user-attachments/assets/4f24af6a-fcb2-4ca9-9501-3347e8072084" />
+<img width="767" height="234" alt="ChatGPT Image Jan 16, 2026, 08_22_08 PM" src="https://github.com/user-attachments/assets/0a477bd4-0e2a-4e05-91af-8f9e2783d1b8" />
+
 
 
 # 👋 Hi, I’m Sneha
@@ -26,7 +27,7 @@ Through roles that combined teaching, analytics, and technical problem-solving, 
 
 ## 📊 Projects
 
-###Cloud Computing
+### Cloud Computing
 [Diabetes Adverse Risk Prediction:](https://github.com/snehaagrawal87/cloud-computing-project) - GCP-deployed predictive system | Cloud ML, Healthcare 
 
 ### Machine Learning
