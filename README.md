@@ -33,6 +33,10 @@ Through roles that combined teaching, analytics, and technical problem-solving, 
 ### Machine Learning
 [House price estimator with Streamlit UI:](https://github.com/snehaagrawal87/simple_streamlit)-Logistic regression, Feature Engineering 
 
+### Data Analysis and Visualization
+ [Using R](https://snehaagrawal87.quarto.pub/stats/) - Performed EDA
+ [Visualization](https://colab.research.google.com/drive/1VSa7zOIEF3PCi8vnoSIdA3dKZQgpES9r?usp=sharing)- Visualization
+
 ### AI
 [Generative-AI-Chatbot:](https://github.com/snehaagrawal87/coding-chatbot) - Multi-model conversational chatbot | LLaMA, GPT, Groq, Streamlit, Docker 
 
