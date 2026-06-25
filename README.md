@@ -56,7 +56,8 @@ Through roles that combined teaching, analytics, and technical problem-solving, 
 
 **Data Analytics**
 - Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
+- Exploratory Data Analysis (EDA)
+- Feature Selection
 - KPI Tracking & Reporting  
 - Dashboard Development  
 - Data Validation & Quality Checks  
