@@ -34,7 +34,7 @@ Through roles that combined teaching, analytics, and technical problem-solving, 
 [House price estimator with Streamlit UI:](https://github.com/snehaagrawal87/simple_streamlit)-Logistic regression, Feature Engineering 
 
 ### Data Analysis and Visualization
- [Sleep Health & Lifestyle Analysis:](https://colab.research.google.com/drive/1AekOZHF6ZyUo_CXO2jR2eCc-Gsw5tQz3)- Data processing, Feature Selection
+ [Sleep Health & Lifestyle Analysis:](https://colab.research.google.com/drive/1AekOZHF6ZyUo_CXO2jR2eCc-Gsw5tQz3) - Data processing, Feature Selection
  [Using R](https://snehaagrawal87.quarto.pub/stats/) - Performed EDA
  [Visualization](https://colab.research.google.com/drive/1VSa7zOIEF3PCi8vnoSIdA3dKZQgpES9r?usp=sharing)- Visualization
 
